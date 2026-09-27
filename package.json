@@ -1,0 +1,20 @@
+{
+  "name": "alldownloader_tele",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api/bot.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ab-downloader": "^2.0.0",
+    "grammy": "^1.46.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "typescript": "^7.0.2"
+  }
+}
